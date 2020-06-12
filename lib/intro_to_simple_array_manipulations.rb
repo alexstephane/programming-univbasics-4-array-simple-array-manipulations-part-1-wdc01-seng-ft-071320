@@ -12,7 +12,7 @@ def using_unshift(places, people)
 end
 
 def using_pop(continent)
-  continent = ["Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  continent == ["Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   
   continent.pop
   
